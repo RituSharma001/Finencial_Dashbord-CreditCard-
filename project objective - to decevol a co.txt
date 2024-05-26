@@ -1,0 +1,1 @@
+project objective :- to decevol a comprehensive credit card weekly dashbord  that provides real time insights into key performence metrics and trends enabeling stackholders to moniter and analysis credit card operations effectivally
